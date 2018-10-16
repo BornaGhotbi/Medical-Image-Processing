@@ -1,12 +1,4 @@
-## Initial 
 
-This readme is mainly explaining exp001 Variational AutoEncoder structure.
-To have a general idea on how to setup this auto-encoder visit ~/src/galmed/cxr-vae/README.md
-
-
-##Title
-
-VAE-32 with only four pakcages of data
 ## Structure
 
 We are Using a Variational AutoEncoder.
@@ -41,4 +33,6 @@ Loss function: KL Divergance + Regularization (L1 Norm)
 In order to visualize our model TensorBoard can be used. 
 Run tensorboard.sh file with the "port" and "event root directory" arguments and then tunnel through this port to access Tensorboard.
 
+
+![picture](vae-32.png)
 
