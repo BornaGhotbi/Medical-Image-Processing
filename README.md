@@ -39,13 +39,6 @@ Loss function: KL Divergance + Regularization (L1 Norm)
 ## Visualization
 
 In order to visualize our model TensorBoard can be used. 
-Run tensorboard.sh file with the "port" and "event root directory" arguments and then tunnel through this port to access Tensorboard. 
-
-## Contact
-
-Roger Donaldson: rogerd@galmed.ca
-Borna Ghotbi: borna.ghotbi@galmed.ca
-
-
+Run tensorboard.sh file with the "port" and "event root directory" arguments and then tunnel through this port to access Tensorboard.
 
 
