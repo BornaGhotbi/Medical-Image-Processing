@@ -34,5 +34,5 @@ In order to visualize our model TensorBoard can be used.
 Run tensorboard.sh file with the "port" and "event root directory" arguments and then tunnel through this port to access Tensorboard.
 
 
-![picture](vae-32.png)
+![picture](VAE-32.png)
 
